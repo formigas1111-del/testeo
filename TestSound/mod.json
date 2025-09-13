@@ -1,0 +1,9 @@
+{
+  "id": "TESTSOUND",
+  "name": "Test Sound",
+  "author": ["TuNombre"],
+  "description": "Un mod mínimo para probar sonidos",
+  "prefix": "ts",
+  "main_file": "main.lua",
+  "version": "1.0.0"
+}
